@@ -1,6 +1,8 @@
 # ATM-Simulation
 GUI desktop application for simulating ATM operations such as funds deposit and/or withdrawal and transactions management between checking and savings account.
 
+Technologies: Java, JavaFX, Scene Builder
+
 Functionalities: 
 
 - Main view: you can type in a username and password to sign up and create an account. 
