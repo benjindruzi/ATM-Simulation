@@ -5,11 +5,15 @@ Tech stack: Java, JavaFX, Scene Builder
 
 Functionalities: 
 
-- Main view: you can type in a username and password to sign up and create an account. 
+- Main view: You can type in a username and password to sign up and create an account. 
 	(or, if you already created one, you can click the "log in" sign at bottom corner to go to the log in page directly)
 	If you don't type in anything, nothing happens.
-- Second view: type in your username and password to log in. they have to match otherwise nothing happens
-- Third view: choose wether you want to deposit to your checking or savings account
-- Fourth view: checking accoount. you can add or remove funds.
-- Fifth view: saving account. you can add or remove funds.
-- In each view, you have an option to go back. (all the way through the sign up page)
+- Second view: Type in your username and password to log in. they have to match otherwise nothing happens
+- Third view: Choose wether you want to deposit to your checking or savings account
+- Fourth view: Checking accoount. You can add or remove funds.
+- Fifth view: Savings account. You can add or remove funds.
+- In each view, you have an option to go back. (All the way through the sign up page)
+
+How to run:
+
+- The project is to be run on Eclipse using JavaFX plugins and Scene Builder
